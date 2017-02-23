@@ -1,5 +1,5 @@
 {
-    "name": "loadsman/php",
+    "name": "loadsman/php-contract",
     "description": "PHP contract for Loadsman.",
     "keywords": ["loadsman", "php"],
     "license": "MIT",
