@@ -1,0 +1,21 @@
+{
+    "name": "loadsman/php",
+    "description": "PHP contract for Loadsman.",
+    "keywords": ["loadsman", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yauheni Prakopchyk",
+            "email": "ontrew@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Loadsman\\PHP\\": "src/"
+        }
+    }
+}

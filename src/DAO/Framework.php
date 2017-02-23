@@ -6,9 +6,22 @@ class Framework
 {
     const FEATURE_RULE_LIST = 'rule-list';
 
+    /**
+     * Framework name.
+     * @var string
+     */
     private $name = '';
+
+    /**
+     * Framework version.
+     * @var string
+     */
     private $version = '';
 
+    /**
+     * Framework features list.
+     * @var array
+     */
     private $features = [self::FEATURE_RULE_LIST];
 
     public function __construct($name, $version)
@@ -40,7 +53,6 @@ class Framework
     {
         $this->features = $features;
     }
-
 
     /**
      * @return array
