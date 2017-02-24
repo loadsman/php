@@ -1,6 +1,6 @@
 <?php
 
-namespace Loadsman\PHP\DAO;
+namespace Loadsman\PHP\DTO;
 
 class Framework
 {

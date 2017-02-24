@@ -2,7 +2,7 @@
 
 namespace Loadsman\PHP\Transformers;
 
-use Loadsman\PHP\DAO\Framework;
+use Loadsman\PHP\DTO\Framework;
 
 class FrameworkTransformer
 {
