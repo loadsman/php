@@ -1,1 +1,3 @@
-loadsman-php
+
+
+Loadsman php standard classes.
